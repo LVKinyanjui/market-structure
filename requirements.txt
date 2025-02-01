@@ -1,0 +1,4 @@
+ipykernel==6.29.5
+yfinance==0.2.52
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
